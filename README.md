@@ -102,9 +102,8 @@ app/
 ## 📸 Screenshots
 
 <!-- Add your screenshots here -->
-## 🎥 Demo Video
-[▶️ Watch Demo on GitHub](https://github.com/Pritpatel11/MAD_24172022034_Practical-6/blob/master/Screen_recording_20251101_104233.mp4)
-
+![WhatsApp Image 2025-11-17 at 10 16 17 AM](https://github.com/user-attachments/assets/d0fa5f82-eca6-442e-acce-0cbf27a4282d)
+![WhatsApp Image 2025-11-17 at 10 16 24 AM](https://github.com/user-attachments/assets/9c157a8f-3dd8-49d1-b794-b514208fe242)
 
 ## 🔧 Customization
 
